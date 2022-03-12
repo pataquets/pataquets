@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Alfonso Montero's Github stats](https://github-readme-stats.vercel.app/api?username=pataquets&count_private=true&show_icons=true)
+![Alfonso Montero's Github stats](https://github-readme-stats.vercel.app/api?username=pataquets&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff00)
 
 <!--
 **pataquets/pataquets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
